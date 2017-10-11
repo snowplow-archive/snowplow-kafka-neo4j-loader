@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.typelevel:cats-free_2.11:1.0.0-MF">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/typelevel/cats-free_2.11/1.0.0-MF/cats-free_2.11-1.0.0-MF.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/typelevel/cats-free_2.11/1.0.0-MF/cats-free_2.11-1.0.0-MF-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/typelevel/cats-free_2.11/1.0.0-MF/cats-free_2.11-1.0.0-MF-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
